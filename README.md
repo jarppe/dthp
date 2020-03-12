@@ -1,13 +1,6 @@
 # Disable Transparent Huge Pages
 
 
-Build:
-
-```
-docker build --tag jarppe/dthp:latest .
-```
-
-
 Apply:
 
 ```
